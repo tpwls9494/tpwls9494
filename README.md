@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=&fontSize=0" width="100%"/>
 
-# 기술 스택 뱃지
-- language
-
+### 🛠 기술 스택
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
 
 # GitHub Stats 카드
@@ -22,10 +21,6 @@
 - github-readme-stats
 - github-profile-trophy
 - github-readme-streak-stats
-
-### 🛠 기술 스택
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 
 ### 📊 GitHub 통계
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=tpwls9494&show_icons=true)

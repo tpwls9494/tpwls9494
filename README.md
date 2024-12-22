@@ -17,11 +17,6 @@
 
 <img src="https://github.com/tpwls9494/tpwls9494/blob/output/github-snake-dark.svg" width="100%">
 
-# 통계 도구
-- github-readme-stats
-- github-profile-trophy
-- github-readme-streak-stats
-
 ### 📊 GitHub 통계
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=tpwls9494&show_icons=true)
 

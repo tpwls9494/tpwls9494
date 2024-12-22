@@ -6,11 +6,11 @@
 - 포트폴리오 링크
 
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 # 기술 스택 뱃지
 - shields.io 활용
-- 예시: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
 
 # GitHub Stats 카드
 [![GitHub 통계](https://github-readme-stats.vercel.app/api?username=본인계정명&show_icons=true&theme=radical)]

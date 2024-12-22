@@ -9,6 +9,7 @@
 
 # 기술 스택 뱃지
 - shields.io 활용
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
 

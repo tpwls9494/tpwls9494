@@ -35,9 +35,6 @@ introduce myself
 
 <img src="https://github.com/tpwls9494/tpwls9494/blob/output/github-snake-dark.svg" width="100%">
 
-# 핀고정된 저장소 표시
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tpwls9494&repo=tpwls9494)]
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=60&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>

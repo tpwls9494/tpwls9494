@@ -1,11 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=&fontSize=0" width="100%"/>
 
 ### 안녕하세요! 👋 
-저는 [이세진]입니다 
+저는 [이세진]입니다.
 
-🔭 현재 [SKN Family AI 부트캠프] 에서 학업을 쌓고 있습니다
-🌱 [기술스택] 을 학습하고 있습니다
-👯 [LLM] 프로젝트 협업에 관심있습니다
+🔭 현재 [SKN Family AI 부트캠프] 에서 학업을 쌓고 있습니다.
+
+🌱 [기술스택] 을 학습하고 있습니다.
+
+👯 [LLM] 프로젝트 협업에 관심있습니다.
+
 📫 연락처: [tpwls9494@naver.com]
 
 

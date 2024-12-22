@@ -3,13 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=C74FEA&size=35&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Sejin+Lee;Research+on+deep+learning" alt="Typing SVG" /></a>
 <!-- My CV/resume -->
 
-
-
 <div align="left">
 </div>
 
 <details>
-<summary>Touch Me</summary>
+<summary>'\n'Touch Me'\n'</summary>
 
 <div align="left">  
 

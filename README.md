@@ -16,7 +16,7 @@ introduce myself
 
 ### 🛠 SKILL STACK
 <span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=flat&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ language-blueviolet?style=flat&logo=C&logoColor=white"/>
 </span>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)

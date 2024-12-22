@@ -3,10 +3,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=C74FEA&size=35&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Sejin+Lee;Research+on+deep+learning" alt="Typing SVG" /></a>
 <!-- My CV/resume -->
 
-<div align="left">
 
-<font color="#2D2E24">introduce myself</font>
-  
+
+<div align="left">
 </div>
 
 <details>
@@ -16,12 +15,6 @@
 
 
 ### 🛠 SKILL STACK
-<span>
-    <img src="https://img.shields.io/badge/ Java-blueviolet?style=flat&logo=C&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ Python-informational?style=flat&logo=Python&logoColor=white"/>
-</span>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)

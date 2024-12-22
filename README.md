@@ -10,7 +10,7 @@
 
 # 기술 스택 뱃지
 - shields.io 활용
-- 예시: ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
+- 예시: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
 # GitHub Stats 카드
 [![GitHub 통계](https://github-readme-stats.vercel.app/api?username=본인계정명&show_icons=true&theme=radical)]

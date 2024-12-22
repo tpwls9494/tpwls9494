@@ -20,7 +20,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
 
 # ALGORITHM
-[algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj=toy)](https://solved.ac/toy)
+[![algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj=toy)](https://solved.ac/toy)]
 
 </div>
 </div>

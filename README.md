@@ -6,7 +6,6 @@
 - 포트폴리오 링크
 
 
-<a href="Python" target="_blank"><img src="https://img.shields.io/badge/3776AB?style=plastic&logo=python&logoColor=#white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 # 기술 스택 뱃지

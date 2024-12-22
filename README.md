@@ -19,8 +19,7 @@ introduce myself
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
 
-# GitHub Stats
-[![GitHub 통계](https://github-readme-stats.vercel.app/api?username=tpwls9494&show_icons=true&theme=radical)]
+# ALGORITHM
 [![algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj=toy)](https://solved.ac/toy)]
 
 </div>

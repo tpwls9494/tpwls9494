@@ -14,20 +14,21 @@ introduce myself
 <div align="left">  
 
 
-### 🛠 기술 스택
+### 🛠 SKILL STACK
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
 
-# GitHub Stats 카드
+# GitHub Stats
 [![GitHub 통계](https://github-readme-stats.vercel.app/api?username=tpwls9494&show_icons=true&theme=radical)]
 [![algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj=toy)](https://solved.ac/toy)]
-
-# 백준 알고리즘
 
 # 많이 사용한 언어 통계
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpwls9494&layout=compact)]
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=tpwls9494&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpwls9494&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=#D99EEB&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+<img src="https://github-readme-stats.vercel.app/api?username=tpwls9494&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=#D99EEB&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tpwls9494&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=#D99EEB" width=94%/>
 
 
 

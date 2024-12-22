@@ -7,9 +7,9 @@
 
 # GitHub Stats 카드
 [![GitHub 통계](https://github-readme-stats.vercel.app/api?username=tpwls9494&show_icons=true&theme=radical)]
+[![algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj=toy)](https://solved.ac/toy)]
 
 # 백준 알고리즘
-[![algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj=toy)](https://solved.ac/toy)]
 
 # 많이 사용한 언어 통계
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpwls9494&layout=compact)]

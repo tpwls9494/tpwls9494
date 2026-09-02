@@ -48,11 +48,8 @@ def select_projects(repositories: list[dict[str, object]]) -> list[dict[str, obj
 def render_project(repo: dict[str, object]) -> str:
     name = clean(repo.get("name"), "Untitled repository")
     url = clean(repo.get("html_url"), f"https://github.com/{USERNAME}")
-    description = clean(repo.get("description"), "A project in active development")
     language = clean(repo.get("language"), "Mixed")
-    pushed_at = str(repo.get("pushed_at") or "")[:10]
-    updated = f" · updated `{pushed_at}`" if pushed_at else ""
-    return f"- **[{name}]({url})** — {description} · `{language}`{updated}"
+    return f"- **[{name}]({url})** · `{language}`"
 
 
 def update_readme(projects: list[dict[str, object]]) -> None:

@@ -1,17 +1,24 @@
 <svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Sejin Lee — AI Product Engineer</title>
-  <desc id="desc">A dark, minimal banner with a simple AI product workflow.</desc>
+  <desc id="desc">A dark, minimal banner with a connected-node motif.</desc>
   <defs>
     <linearGradient id="background" x1="36" y1="18" x2="1162" y2="264" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0D1117"/>
       <stop offset="0.55" stop-color="#111827"/>
       <stop offset="1" stop-color="#172554"/>
     </linearGradient>
-    <linearGradient id="accent" x1="748" y1="0" x2="1090" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accent" x1="736" y1="62" x2="1080" y2="226" gradientUnits="userSpaceOnUse">
       <stop stop-color="#67E8F9"/>
       <stop offset="0.5" stop-color="#818CF8"/>
       <stop offset="1" stop-color="#C084FC"/>
     </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
   <rect width="1200" height="280" rx="24" fill="url(#background)"/>
@@ -24,25 +31,27 @@
   <text x="62" y="151" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-1">Sejin Lee</text>
   <text x="65" y="193" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="20">From intelligent workflows to products people can use.</text>
 
-  <path d="M760 132H1080" stroke="#475569" stroke-width="2"/>
-  <path d="M760 132H1080" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.8"/>
-
-  <g fill="#111827" stroke="url(#accent)" stroke-width="3">
-    <circle cx="760" cy="132" r="12"/>
-    <circle cx="867" cy="132" r="12"/>
-    <circle cx="973" cy="132" r="12"/>
-    <circle cx="1080" cy="132" r="12"/>
+  <g stroke="url(#accent)" stroke-width="2" stroke-opacity="0.7">
+    <path d="M774 78L875 54L972 96L1075 68"/>
+    <path d="M774 78L824 160L920 210L972 96"/>
+    <path d="M824 160L936 146L1042 198L1075 68"/>
+    <path d="M936 146L920 210"/>
+    <path d="M972 96L1042 198"/>
   </g>
-  <g fill="url(#accent)">
-    <circle cx="760" cy="132" r="4"/>
-    <circle cx="867" cy="132" r="4"/>
-    <circle cx="973" cy="132" r="4"/>
-    <circle cx="1080" cy="132" r="4"/>
+  <g fill="#0F172A" stroke="url(#accent)" stroke-width="3" filter="url(#glow)">
+    <circle cx="774" cy="78" r="8"/>
+    <circle cx="875" cy="54" r="6"/>
+    <circle cx="972" cy="96" r="11"/>
+    <circle cx="1075" cy="68" r="7"/>
+    <circle cx="824" cy="160" r="10"/>
+    <circle cx="936" cy="146" r="7"/>
+    <circle cx="920" cy="210" r="9"/>
+    <circle cx="1042" cy="198" r="12"/>
   </g>
-  <g fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle">
-    <text x="760" y="169">input</text>
-    <text x="867" y="169">retrieve</text>
-    <text x="973" y="169">reason</text>
-    <text x="1080" y="169">ship</text>
+  <g fill="#E0F2FE" font-family="Arial, Helvetica, sans-serif" font-size="11" opacity="0.82">
+    <text x="755" y="60">input</text>
+    <text x="950" y="72">reason</text>
+    <text x="796" y="189">retrieve</text>
+    <text x="1014" y="228">ship</text>
   </g>
 </svg>
